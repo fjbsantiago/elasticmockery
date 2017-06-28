@@ -1,6 +1,6 @@
 # Elastic Mockery
 
-Used to mock the Elasticsearch python library. Creates portable fixtures that can be used to run Python unit tests offline. 
+Used to mock the Elasticsearch python library and creates portable fixtures that can be used to run Python unit tests offline without a running Elasticsearch server. 
 
 ## Getting Started
 
